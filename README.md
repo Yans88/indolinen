@@ -6,4 +6,4 @@ Component
 - CMS
 - API
 
-Use Codeigniter - AdminLTE
+Codeigniter - AdminLTE
